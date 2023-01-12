@@ -13,11 +13,7 @@ color: rgb(240, 3, 3);
 font-size: 16px;
 }
 
-a:link {
-    color: rgb(241, 2, 2);
-  }
-
-  a:visited {
+a {
     color: rgb(241, 2, 2);
   }
   
