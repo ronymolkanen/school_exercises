@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+  }
+  
+  header, footer {
+    background: purple;
+    height: 100px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: white;
+    line-height: 100px;
+    margin: 0;
+  }
+  
+  article {
+    padding: 10px;
+    margin: 10px;
+    background: aqua;
+  }
+  
+  .main{
+    display: flex;
+    
+  }
+  
+  sidebar{
+    margin:10px;
+    background-color: rgb(227, 225, 221);
+    min-width: 200px;
+    font-size: x-large;
+    
+  }
+  
+  section{
+    display: flex;
+    flex-direction: column;
+  }
+  
+  article{
+    flex:1;
+  
+  }
+  
+  article:nth-of-type(3){
+    flex:4;
+    
+  }
+  
+  .flexContainer{
+    display:flex;
+    background-color: rgb(240, 217, 189);
+  }
+  
+  .flexGrowContainer{
+    display: flex;
+    align-items: stretch;
+    background-color: rgb(176, 243, 236);
+  }
