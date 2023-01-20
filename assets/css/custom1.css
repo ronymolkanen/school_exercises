@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(227, 227, 227);
+}
+
+header{
+    background-color: rgb(70, 168, 229);
+}
+
+footer{
+    background-color:rgb(244, 244, 244);
+    color: black;
+}
+
+.red{
+    background-color: rgb(170, 76, 76);
+}
+
+footer{
+    height: 70px;
+    text-align: center;
+}
+
+.col-4{
+    background-color: aliceblue;
+}
+
+.col-6{
+    background-color: goldenrod
+}
+
+.col-2{
+    background-color: rgb(149, 228, 84);
+}
