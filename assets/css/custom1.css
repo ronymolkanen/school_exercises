@@ -7,18 +7,16 @@ header{
 }
 
 footer{
-    background-color:rgb(244, 244, 244);
+    background-color:rgb(221, 221, 221);
     color: black;
+    height: 70px;
+    text-align: center;
 }
 
 .red{
     background-color: rgb(170, 76, 76);
 }
 
-footer{
-    height: 70px;
-    text-align: center;
-}
 
 .col-4{
     background-color: aliceblue;
