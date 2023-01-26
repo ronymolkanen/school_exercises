@@ -30,6 +30,7 @@ body {
     background-color: rgb(227, 225, 221);
     min-width: 200px;
     font-size: x-large;
+    flex:end;
     
   }
   
@@ -39,7 +40,7 @@ body {
   }
   
   article{
-    flex:1;
+    flex:5;
   
   }
   
